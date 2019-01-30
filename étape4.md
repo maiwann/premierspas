@@ -71,7 +71,7 @@ Créez un nouveau document, que vous appelerez CNAME
 
 Et à l'intérieur, vous n'écrivez qu'une seule ligne : le nom du sous-domaine que vous avez rentré dans OVH.
 
-Pour moi, c'était www.maiwann.net
+Pour moi, c'était premierspas.maiwann.net
 
 Vous enregistrez, et c'est parti !
 

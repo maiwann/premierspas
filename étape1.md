@@ -8,7 +8,7 @@ Première étape, créer son compte Github.
 
 L'offre gratuite convient tout à fait, n'oubliez pas de valider votre adresse mail après coup (ça servira pour la suite).
 
-## Premier répertoire
+## Créer son premier répertoire
 
 Une fois votre compte créé, rendez-vous sur la page d'accueil de Github : https://github.com/
 
@@ -16,7 +16,12 @@ On va créer un nouveau projet ou répertoire, appellé "repository" sur l'inter
 
 ![Capture d'écran de la page d'accueil Github](./accueil_github.png)
 
+
+
 On arrive au paramétrage des options:
+
+![Capture d'écran de la page de création d'un repository](./create_new_repository.png)
+
 
 ### Obligatoires
 On donne un nom à son projet (dans l'image je l'ai appellé "premierspas")

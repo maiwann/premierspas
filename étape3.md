@@ -26,4 +26,4 @@ Et surprise, après que ça ai un peu mouliné, le résultat est là !
 
 ## Étape suivante
 
-Super tout ça, mais moi je veux pas l'adresse super longue de GotHub, je veux mon adresse à moi… comment je fait ?
+Super tout ça, mais moi je veux pas l'adresse super longue de GitHub, je veux mon adresse à moi… comment je fait ?

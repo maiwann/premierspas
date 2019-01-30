@@ -16,7 +16,7 @@ Puis on appuie sur **Save** pour sauvegarder le changement !
 
 ## Hop ! Un site !
 
-La sauvegarde nous fait remonter en haut de la page, et si on redescend au niveau "GitHub Pages", on voit que la section a un peu changée !
+La sauvegarde nous fait remonter en haut de la page, et si on redescend au niveau "GitHub Pages", on voit que la section a un peu changé !
 
 Et surtout, ce qui nous intéresse le plus : On a déjà une adresse pour accéder à notre site, qui est publié en ligne !
 (Ca peut mettre quelques minutes pour être mis en place, pas de panique !)

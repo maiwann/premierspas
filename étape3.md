@@ -1,6 +1,6 @@
 # Étape 3 : Voir la liste de mes articles sur ma page d'accueil
 
-Pour pouvoir avoir mes articles sur la liste de la page d'accueil, il va falloir passer du thème par défaut de GitHubPages qui dit "Affiche moi le README en page d'accueil" à un autre thème qui dire "Affiche moi la liste des articles en page d'accueil"
+Pour pouvoir avoir mes articles sur la liste de la page d'accueil, il va falloir passer du thème par défaut de GitHubPages qui dit "Affiche-moi le README en page d'accueil" à un autre thème qui dire "Affiche-moi la liste des articles en page d'accueil"
 
 ## Créer un fichier de config
 
@@ -8,7 +8,7 @@ Pour ça, on va créer un fichier de configuration qui va dire "Ok on change de 
 
 Retournez sur la page de votre repository, et appuyez sur "Create new file"
 
-Vous appellez ce nouveau fichier : _config.yml
+Vous appelez ce nouveau fichier : _config.yml
 
 Et à l'intérieur, vous ne mettez qu'une ligne de texte : remote_theme: daktary-team/maquillage
 
@@ -26,4 +26,4 @@ Et surprise, après que ça ai un peu mouliné, le résultat est là !
 
 ## Étape suivante
 
-Super tout ça, mais moi je veux pas l'adresse super longue de GitHub, je veux mon adresse à moi… comment je fait ?
+Super tout ça, mais moi je veux pas l'adresse super longue de GitHub, je veux mon adresse à moi… comment je fais ?

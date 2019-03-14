@@ -37,4 +37,4 @@ Et on valide !
 
 ## Final
 
-Félicitations, votre projet est créé ! Prochaine étape : Le paramétrage pour lui dire "Salut, je veux que tu utilise GitHubPages en fait !"
+Félicitations, votre projet est créé ! Prochaine étape : Le paramétrage pour lui dire "Salut, je veux que tu utilise GitHubPages en fait !" 

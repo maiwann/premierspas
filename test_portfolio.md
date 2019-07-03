@@ -5,9 +5,6 @@ layout: portfolio
 
 # Une page portfolio
 
-
-<p> Ceci est le texte test </p>
-
 <div class="masonry-brick"> <img src="./gif_lapin/1.gif"> </div>
 <div class="masonry-brick"> <img src="./gif_lapin/2.gif"> </div>
 <div class="masonry-brick"> <img src="./gif_lapin/3.gif"> </div>

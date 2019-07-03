@@ -8,16 +8,36 @@ layout: portfolio
 
 <p> Ceci est le texte test </p>
 
-![Capture d'écran de la page d'accueil Github](./accueil_github.png)
-
-
-![Capture d'écran de la page de création d'un repository](./create_new_repository.png)
-
-![Capture d'écran du repository vide](./repository_niveau0.png)
-
-![Capture d'écran du choix dans les paramètres source](./settings_source1.png)
-
-![Capture d'écran avec l'url de mon site](./url_monsite.png)
-
-![Capture d'écran de mon site…un peu vide](./monsite1.png)
-
+<div class="masonry-brick"> ![](./gif_lapin/1.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/2.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/3.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/4.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/5.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/6.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/7.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/8.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/9.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/11.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/16.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/1.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/2.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/3.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/4.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/5.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/6.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/7.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/8.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/9.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/11.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/16.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/1.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/2.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/3.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/4.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/5.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/6.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/7.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/8.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/9.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/11.gif) </div>
+<div class="masonry-brick"> ![](./gif_lapin/16.gif) </div>

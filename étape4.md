@@ -7,13 +7,13 @@
 Rendez-vous sur votre espace client, en vous connectant :)
 
 Une fois connecté·e, je cherche à aller sur le nom de domaine qui m'intéresse (l'adresse qui doit correspondre à mon site)
-Ici par exemple, pour moi, se sera maiwann.net
+Ici par exemple, pour moi, ce sera maiwann.net
 
 Je commence par sélectionner "Domaines" dans la barre de navigation à gauche
 
 ![Capture d'écran OVH](./ovh1.png)
 
-Puis, maiwann.net parmis les noms de domaines que l'on me propose, et voilà ce qui apparait :
+Puis, maiwann.net parmi les noms de domaines que l'on me propose, et voilà ce qui apparait :
 
 ![Capture d'écran OVH](./ovh2.png)
 
@@ -54,14 +54,14 @@ Cible : maiwann.github.io.
 
 Et je valide !!
 
-Ensuite, la 3e étape n'est remplis que d'informations, donc je la valide aussi :)
+Ensuite, la 3e étape n'est remplie que d'informations, donc je la valide aussi :)
 Petit point d'attention : vérifiez que vous n'avez pas, dans la liste de vos zones DNS (qui peut être sur plusieurs pages), un autre domaine cible qui sera nommé comme le sous-domaine que vous avez indiqué plus haut (c'était mon cas, ce qui a failli me provoquer des bricoles ^^') Si c'est le cas, supprimez le !
 
 ### Bravo !
 
-Ca y est, vous êtes arrivés au bout du paramétrage coté OVH !!! BRAVO !!!
+Ca y est, vous êtes arrivé⋅e⋅s au bout du paramétrage coté OVH !!! BRAVO !!!
 
-Si vous avez encore un peu d'énergie il reste une toute petite étape coté GitHub :)
+Si vous avez encore un peu d'énergie il reste une toute petite étape côté GitHub :)
 
 ## Coté GitHub
 
@@ -79,7 +79,7 @@ Vous enregistrez, et c'est parti !
 
 Et normalement, on est tout bon !!!! Bravoooo :3
 
-Notez que pour moi ça a été quasiment immédiat, mais il est possible que le paramétrage des DNS mette 24h… Il faut être un peu patient…
+Notez que pour moi ça a été quasiment immédiat, mais il est possible que le paramétrage des DNS mette 24h… Il faut être un peu patient⋅e…
 
 Et ensuite, vous pourrez aller sur votre adresse web et tomber sur le même contenu que celui disponible sur l'adresse de github (que vous pouvez toujours retrouver dans Settings)
 
